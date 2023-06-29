@@ -1,0 +1,13 @@
+apiversion: v1
+config: config.yaml
+help: false
+max-retries: 7
+mr: 7
+server:
+    address: http://127.0.0.1:80
+    timeout: 10s
+token: aaaaaaa
+token2: bbbbbbb
+user:
+    password: Admin@2020
+    username: colin

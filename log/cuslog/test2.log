@@ -1,0 +1,3 @@
+2023-04-21T11:30:06+08:00 INFO main.go:25 custom log with json formatter
+2023-04-21T11:36:50+08:00 INFO main.go:29 custom log with json formatter
+2023-04-21T11:37:08+08:00 INFO main.go:29 custom log with json formatter
