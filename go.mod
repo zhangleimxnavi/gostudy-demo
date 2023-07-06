@@ -5,6 +5,7 @@ go 1.15
 require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
 	github.com/bytedance/sonic v1.8.7 // indirect
+	github.com/fatih/color v1.13.0
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-contrib/requestid v0.0.1
 	github.com/gin-gonic/gin v1.9.0
@@ -19,6 +20,7 @@ require (
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/leodido/go-urn v1.2.3 // indirect
 	github.com/marmotedu/api v1.6.2
+	github.com/marmotedu/component-base v1.6.2
 	github.com/marmotedu/iam v1.6.2
 	github.com/mattn/go-isatty v0.0.18 // indirect
 	github.com/mitchellh/go-homedir v1.1.0

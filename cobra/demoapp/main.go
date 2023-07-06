@@ -19,6 +19,9 @@ import (
 	"github.com/marmotedu/gopractise-demo/cobra/demoapp/cmd"
 )
 
+//cobra的参考文章
+//https://xie.infoq.cn/article/915006cf3760c99ad0028d895
+
 func main() {
 	//rootCmd.Execute() 是命令的执行入口，其内部会解析 os.Args[1:] 参数列表
 	//（默认情况下是这样，也可以通过 Command.SetArgs 方法设置参数），然后遍历命令树，为命令找到合适的匹配项和对应的标志。
